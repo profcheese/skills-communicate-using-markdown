@@ -1,3 +1,4 @@
+![Town sign welcoming people to Reading, England](https://upload.wikimedia.org/wikipedia/commons/4/41/Welcome_to_Reading_-_geograph.org.uk_-_5971664.jpg)
 # Reading for structure
 ## Step One: Review the title
 In this step, you should examine the title for meaning. You want to think about what the title tells you about the thing you are going to read. If there are words in the title you are unfamiliar with, look them up. In addition, identify key words, or phrases,
