@@ -9,6 +9,9 @@ deepen your engagement with the title. Context clues in academic articles includ
 * Publication Source (Journal/Book Title--Publisher)
 * Article Keywords
 ## Step Two: Scan/Skim Reading, looking for structural elements
+``` javascript
+var myVar = "Smart-Skills";
+```
 ### Headings
 The most common form of structural element are headings and sub-headings. These are often indicated by a short title or subject statement, placed in **special** *formating* of ~~some kind~~. Note how different organizational patterns are repeated, and remember, many
 authors, particularly academics, write from outlines, meaning that both the **heading** and the *level of detail* matter in the writing.
