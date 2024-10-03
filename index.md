@@ -15,3 +15,7 @@ var myVar = "Smart-Skills";
 ### Headings
 The most common form of structural element are headings and sub-headings. These are often indicated by a short title or subject statement, placed in **special** *formating* of ~~some kind~~. Note how different organizational patterns are repeated, and remember, many
 authors, particularly academics, write from outlines, meaning that both the **heading** and the *level of detail* matter in the writing.
+
+- [x] Add a to-do list
+- [ ] Check if this is the proper place for the to-do list
+- [x] Awknowledge that you're learning in public.
